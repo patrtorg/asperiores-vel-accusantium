@@ -1,14 +1,14 @@
 {
   "name": "@patrtorg/asperiores-vel-accusantium",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "PatrDen",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^1.1.4",
-    "@juigorg/sit-nam-neque": "^1.0.4",
+    "@dramaorg/esse-praesentium-eligendi": "^1.2.4",
+    "@juigorg/sit-nam-neque": "^1.0.5",
     "@kollorg/dicta-itaque-nemo": "^1.0.5",
     "@patrtorg/a-ad-expedita": "^1.0.1",
     "@patrtorg/a-ut-amet": "^1.0.1",
